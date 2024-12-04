@@ -3,7 +3,7 @@
 ### Andrew Lane
 ### 12/10/2024
 
-12/3 - Complete part 1 and got started on part 2
+12/3 - Worked through part 1 and started part 2. Converting the html table to data rows took some time to figure out.
 
 12/2 - Set up repo and file structure. Test connection from computer to GitHub
 
